@@ -57,3 +57,19 @@
 //let str = "Bitcamp";
 //let letter = str[0];
 //console.log(letter === letter.toUpperCase());
+
+//17. empty or not
+//let str = "";
+//if (str != "") console.log("not")
+//else console.log("empty")
+
+//18. contains or not
+//let str = "hello world";
+//if (str.includes("no")) console.log("yes")
+//else console.log("no")
+
+//19. string "0" and integer 0
+//let num = 0;
+//let str = "0";
+//if (num == str) console.log("equals")
+//else console.log("not")
