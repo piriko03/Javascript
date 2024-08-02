@@ -68,6 +68,33 @@
 //if (str.includes("no")) console.log("yes")
 //else console.log("no")
 
+// starts withh hello or not
+//let str = "hello world";
+//if (str.startsWith("hello") || str.startsWith("hi")) {console.log("yes")}
+//else console.log("no")
+
+// contains or not
+//let str = "mari piro";
+//if (str.includes("hello") || str.includes("world")) {
+//    console.log("yes")
+//}else console.log("no")
+
+// leap year
+//let yr = 2020;
+//if (yr%4==0) console.log("yes")
+//else console.log("no")
+
+// variable type
+//let index = "asxasxa";
+//if (typeof index==="number") console.log("number")
+//else if (typeof index === "string") console.log("string")
+
+// string length
+//let str = "piriko";
+//if (str.length>5) console.log("greater")
+//else if (str.length<17) console.log("less")
+//else console.log("equals")
+
 //19. string "0" and integer 0
 //let num = 0;
 //let str = "0";
