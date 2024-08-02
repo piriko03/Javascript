@@ -1,53 +1,38 @@
-//1.a program that prints "Hello World".
-//console.log("Hello World")
+//integer or not
+//console.log(Number.isInteger(40));
 
-//2.create a variable and print its value.
-//let number = 5
-//console.log(number)
+//turn string into integer
+//let num = 40;
+//let str = num.toString();
+//console.log(str);
+//console.log(typeof str);
 
-//3.program to add two numbers and print the result.
-//let num1 = 5
-//let num2 = 7
-//let result = num1 + num2
-//console.log(result)
+//number or not?
+//let num = "20";
+//let check = isNaN(num);
+//console.log(check);
 
-//4.a program that subtracts two numbers and displays the result.
-//let num1 = 10
-//let num2 = 7
-//let result = num1 - num2
-//console.log(result)
+//rounding the number
+//let num = 2.4;
+//let roundedNum = Math.round(num);
+//console.log(roundedNum);
 
-//5.a program to multiply two numbers and print the result.
-//let num1 = 8
-//let num2 = 9
-//let result = num1 * num2
-//console.log(result)
+//random number from 0 to x
+//let x = 10;
+//let random = Math.ceil(Math.random() * x);
+//console.log(random);
 
-//6.a program to divide two numbers and print the result.
-//let num1 = 54
-//let num2 = 6
-//let result = num1 / num2
-//console.log(result)
+//random number from x to y
+//let x = 5;
+//let y = 10;
+//let range = y - x;
+//let random = Math.floor(Math.random() * range) + x;
+//console.log(random);
 
-//7.a program to calculate the remainder of the division of two numbers.
-//let num1 = 10
-//let num2 = 7
-//let result = num1 % num2
-//console.log(result)
+//Rounding decimals to hundredths
+//let floatnum = 4.9786;
+//let roundedNum = floatnum.toFixed(2);
+//console.log(roundedNum);
 
-//8.a variable and assign it a string. Print the length of the string.
-//let myname = "mariam pirosmanishvili"
-//console.log(myname.length)
-
-//9.a program to concatenate two strings and display the result.
-//let myname = "mariam "
-//let mysurname = "pirosmanishvili"
-//console.log(myname + mysurname)
-
-//10.a program to convert a string to upper case.
-//let myname = "mariam"
-//console.log(myname.toUpperCase())
-
-//11.a program to convert a string to lower case.
-//let myname = "MARIAM"
-//console.log(myname.toLowerCase())
+//remove the root
+//console.log(Math.sqrt(16));
